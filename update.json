@@ -16,7 +16,7 @@
       "url": "https://github.com/lemarier/tauri-test/releases/download/v1.0.0/app.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDk3MkVBQkY1NDM3NjVEMUEKUldRYVhYWkQ5YXN1bDY1bnY4d1NPM2FLUkhxZ3V1OVFsRExuT2lsUzdVTkxBUGNnRVpRUmNMZTcK",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYVhYWkQ5YXN1bCtJLzhZZ2MrQlZpaERDL3Z0N09jcVByM3RnOWFBRnJCUGdHazVjQ2JRaUtPb3BOMkxqNyszdXFLSVZ4WmZxV1FZNTR5OEhRSEM0SFZCRFNXRE1CWFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2OTAzOTkyCWZpbGU6RDpccHJvamVjdHNcdGF1cmktYXBwXHNyYy10YXVyaVx0YXJnZXRcZGVidWdcYnVuZGxlL21zaS90YXVyaS1hcHBfMS4wLjFfeDY0X2VuLVVTLm1zaS56aXAKQjF2eHJscmVKTTVZdkJsWlpmRTV2V3lpTW9NajRkWUhDS01sWkx4R0JhRStscXRCQ2Nsa01ZaXROV2tjTTc4WHpxb0xwd0lZSEpmOEhXWGtJVG1sQXc9PQo=",
       "url": "https://github.com/JSoon/tauri-app-updates/raw/main/releases/windows/x64/tauri-app_1.0.1_x64_en-US.msi.zip"
     }
   }
