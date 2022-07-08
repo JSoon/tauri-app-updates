@@ -1,0 +1,23 @@
+{
+  "version": "v1.0.1",
+  "notes": "Test version",
+  "pub_date": "2022-07-01T11:25:57Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYVhYWkQ5YXN1bDhSVlozUW9mNTVqalFIVng0WkhlN1NlSEIvVithL2lraFRmVVlWb0FMVkpiUzlNcFVncFB6V1RjVGQ1b2hqRExjcXdhSGZEbFFsYU82K3k0QnlldndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU3MjQ5MjEwCWZpbGU6dGF1cmktYXBwLmFwcC50YXIuZ3oKS0hZeEptQ0hQMmlmcHA4VytoUmJEamRJZFczL2NzcXFGd1FKQjE5RzJaZXkrUkl4cG0wb0JpVjVuWmRMeFRUNHNYT2N5WlM4Sm5iaHlSclRrbmtyQ0E9PQo=",
+      "url": "https://github.com/JSoon/tauri-app-updates/releases/download/t1.0.1-beta.1/tauri-app.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://github.com/lemarier/tauri-test/releases/download/v1.0.0/silicon/app.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "",
+      "url": "https://github.com/lemarier/tauri-test/releases/download/v1.0.0/app.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYVhYWkQ5YXN1bDlBdUJPWEduUHRvM0hMK1BNTzFMY0hiUW9TUHo4VHd0bElucXFMUEFwK20vcFk5aFdzYUJQSmdsakpIWTJTcHlIK0EvWnhQbWl0MUJqazR0VTJ1Q3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU3MjUwNDIzCWZpbGU6RDpccHJvamVjdHNcdGF1cmktYXBwXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL3RhdXJpLWFwcF8xLjAuMV94NjRfZW4tVVMubXNpLnppcAphSUd0Yk9PTlk0NXhvUmg4TWgvbWdQdzN4bTlxdEROY3Jmckp0Tm53WjlrcVYxQ0FvT0lQWnFRQjhmTUNKa1NGcEdBOWY3ZlY1amR5d2xYNkk0aEFCZz09Cg==",
+      "url": "https://github.com/JSoon/tauri-app-updates/releases/download/t1.0.1-beta.1/tauri-app_1.0.1_x64_en-US.msi.zip"
+    }
+  }
+}
